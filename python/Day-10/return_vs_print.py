@@ -7,3 +7,6 @@ def multiply(a, b):
 result = multiply(4, 5)
 print(result)
 print(result + 100)
+def name():
+    print("My name")
+name()

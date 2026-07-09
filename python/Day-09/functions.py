@@ -1,14 +1,17 @@
 def greet():
     print("Hello, Engineer Thanush!")
     print("Welcome back to Python!")
+greet()
 
 def dream():
     print("I will build jarvis")
     print("I will become a great AI engineer")
+dream()
 
 def buissness():
     print("I will start my own business")
     print("I will become a successful entrepreneur")
+buissness()
 
 def check_number(num):
     if num % 2 == 0:

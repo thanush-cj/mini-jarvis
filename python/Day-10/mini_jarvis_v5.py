@@ -1,5 +1,5 @@
 def welcome():
-    return "🤖 Welcome to Mini Jarvis!"
+    return "Welcome to Mini Jarvis!"
 
 def ask_name():
     name = input("What is your name? ")
